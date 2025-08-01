@@ -55,7 +55,7 @@ Durante o desenvolvimento, pratiquei:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/LuanJsv/projeto-lazy-load.git
+   git clone https://github.com/LuanJsv/LAZY-LOADING
 Abra o arquivo index.html no navegador.
 
 Obs.: Para testar o comportamento do Lazy Load, role a página lentamente e observe a melhoria na qualidade das imagens.
